@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "İnterface", "İnterface\İnterface.csproj", "{5E3E2BFC-2B8A-42F7-96AE-3B055C39BAE0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kalıtım", "Kalıtım\Kalıtım.csproj", "{E3C5AD33-EA0E-4752-B78F-EFEDFF1F6E9E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5E3E2BFC-2B8A-42F7-96AE-3B055C39BAE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E3E2BFC-2B8A-42F7-96AE-3B055C39BAE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E3E2BFC-2B8A-42F7-96AE-3B055C39BAE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E3E2BFC-2B8A-42F7-96AE-3B055C39BAE0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E3C5AD33-EA0E-4752-B78F-EFEDFF1F6E9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3C5AD33-EA0E-4752-B78F-EFEDFF1F6E9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3C5AD33-EA0E-4752-B78F-EFEDFF1F6E9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3C5AD33-EA0E-4752-B78F-EFEDFF1F6E9E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7AB2282B-FD1D-42C8-AA1E-60A02C2E0E81}
+	EndGlobalSection
+EndGlobal
